@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tymer007&label=Profile%20views&color=0e75b6&style=flat" alt="tymer007" /> </p>
 
-- 🎥 View my [Portfolio](https://www.my-portfolio-beta-three-33.vercel.app) where you can get to see the various projects I've worked on and book a meet with me 🎸
+- 🎥 View my [Portfolio](https://devlyng.vercel.app/portfolio/669ec31a736e78f938a8a985) where you can get to see the various projects I've worked on and book a meet with me 🎸
 
 - 📫 How to reach me **ty.freeman47@gmail.com**
 
