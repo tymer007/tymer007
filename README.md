@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 - 🎥 Visit my WAKATIME [Profile](https://wakatime.com/@tymer007) for more on my coding activity 🎸
 
+-  [![Spotify](https://novatorem-yourusername.vercel.app/api/spotify)](https://open.spotify.com/user/57ar9vx9ts7h7y6fdzadjcqnd)
+
 
 - 🎥 View my [Portfolio](https://devlyng.vercel.app/portfolio/669ec31a736e78f938a8a985) where you can get to see the various projects I've worked on and book a meet with me 🎸
 
