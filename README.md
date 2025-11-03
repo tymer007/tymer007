@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://wakatime.com/@d6c5d489-dac6-4015-a94b-5e693152afd1">
-    <img src="https://wakatime.com/badge/user/d6c5d489-dac6-4015-a94b-5e693152afd1.svg" alt="Coding Time" />
+    <img src="https://wakatime.com/badge/user/d6c5d489-dac6-4015-a94b-5e693152afd1.svg" alt="Wakatime" />
   </a>
 </p>
 
